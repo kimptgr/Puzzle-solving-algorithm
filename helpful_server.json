@@ -1,0 +1,9 @@
+{
+  "PUZZLE_04": [
+    ["FERN", "EMPTY", "EMPTY", "EMPTY", "EMPTY"],
+    ["EMPTY", "EMPTY", "GIRL_RAW", "GIRL_COL", "EMPTY"],
+    ["BOY_RAW", "EMPTY", "EMPTY", "EMPTY", "EMPTY"],
+    ["EMPTY", "EMPTY", "EMPTY", "EMPTY", "BOY_COL"],
+    ["FERN", "BOY_COL", "EMPTY", "EMPTY", " EMPTY"]
+  ]
+}
