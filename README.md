@@ -6,7 +6,7 @@ These are custom algorithmic solutions written from scratch, for the purpose of 
 
 ---
 
-## 🧠 Techniques Used
+## Techniques Used
 
 - **Backtracking**  
   Recursive functions using:
@@ -26,9 +26,9 @@ These are custom algorithmic solutions written from scratch, for the purpose of 
 
 ---
 
-## 🧩 Solved Puzzles
+## Solved Puzzles
 
-### 🥗 Fruit Salad
+### Fruit Salad 🥗 
 
 A grid-filling puzzle involving placing fruits to satisfy unique constraints.
 
@@ -36,7 +36,7 @@ A grid-filling puzzle involving placing fruits to satisfy unique constraints.
 
 ---
 
-### 🧠 Helper Server
+### Helper Server 🍽️
 
 A logic puzzle involving directional seating and matching characters to conditions based on where they look.
 
@@ -44,7 +44,7 @@ A logic puzzle involving directional seating and matching characters to conditio
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
 This repository is **fan-made** and **unaffiliated** with LEVEL-5 or the *Professor Layton* series.  
 It contains only original code written for personal learning and algorithmic experimentation.  
