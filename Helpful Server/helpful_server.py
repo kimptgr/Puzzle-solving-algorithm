@@ -288,10 +288,10 @@ if __name__ == "__main__":
         [BOY_LEFT, BOY_DOWN, BOY_LEFT],
     ]
     PUZZLE_04 = [
-        [FERN, EMPTY, EMPTY, EMPTY, EMPTY],
-        [EMPTY, EMPTY, GIRL_RIGHT, GIRL_UP, EMPTY],
-        [BOY_LEFT, EMPTY, EMPTY, EMPTY, EMPTY],
-        [EMPTY, EMPTY, EMPTY, EMPTY, BOY_DOWN],
-        [FERN, BOY_DOWN, EMPTY, EMPTY,  EMPTY]
+        [FERN, EMPTY, EMPTY, EMPTY, EMPTY],  # 17777
+        [EMPTY, EMPTY, GIRL_RIGHT, GIRL_UP, EMPTY],  # 77437
+        [BOY_LEFT, EMPTY, EMPTY, EMPTY, EMPTY],  # 57777
+        [EMPTY, EMPTY, EMPTY, EMPTY, BOY_DOWN],  # 77776
+        [FERN, BOY_DOWN, EMPTY, EMPTY,  EMPTY]  # 16777
     ]
     solve()
